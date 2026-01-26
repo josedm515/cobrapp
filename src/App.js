@@ -145,7 +145,7 @@ export default function CobrApp() {
               Deja de perseguir clientes que no te pagan
             </p>
             <p className="text-lg text-gray-600">
-              Recordatorios automáticos por email y WhatsApp. Tu cliente recibe el mensaje. Tú recibes tu dinero.
+              Recordatorios automáticos por email. Tu cliente recibe el mensaje. Tú recibes tu dinero.
             </p>
           </div>
 
